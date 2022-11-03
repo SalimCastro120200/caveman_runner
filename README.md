@@ -256,7 +256,7 @@ Beneficio para todos los implicados.
 
 No existen oponentes.
 
-Genera un clima de confianza.
+Genera un ambiente de confianza.
 
 Buenos resultados. No se alcanza el beneficio máximo, pero sí lo suficientemente satisfactorio como para considerar que todos han salido favorecidos.
 
